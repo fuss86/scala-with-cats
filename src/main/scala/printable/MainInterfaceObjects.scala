@@ -2,11 +2,12 @@ package printable
 
 import printable.PrintableInstances._
 
-object Main {
+object MainInstances {
 
   def main(args: Array[String]): Unit = {
     Printable.print(2023)
     Printable.print("scala")
+    Printable.print(Cat("Luis", 7, "black"))
   }
 
 }
