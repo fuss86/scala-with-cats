@@ -1,4 +1,4 @@
-package printable
+package mycats.printable
 
 /**
   * Create an object called PrintableSyntax.

@@ -1,7 +1,8 @@
-package printable
+package mycats.printable
 
 import cats._
 import cats.implicits._
+import mycats.Cat
 
 object ShowInstances {
 

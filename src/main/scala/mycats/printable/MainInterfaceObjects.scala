@@ -1,6 +1,7 @@
-package printable
+package mycats.printable
 
-import printable.PrintableInstances._
+import mycats.Cat
+import mycats.printable.PrintableInstances._
 
 object MainInterfaceObjects {
 

@@ -1,4 +1,6 @@
-package printable
+package mycats.printable
+
+import mycats.Cat
 
 /**
   * Create an object PrintableInstances containing instances of

@@ -1,4 +1,4 @@
-package printable
+package mycats.printable
 
 /**
   * Define a type class Printable[A] containing a single method format.
