@@ -2,7 +2,7 @@ package printable
 
 import printable.PrintableInstances._
 
-object MainInstances {
+object MainInterfaceObjects {
 
   def main(args: Array[String]): Unit = {
     Printable.print(2023)
